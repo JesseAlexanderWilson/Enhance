@@ -1,0 +1,1 @@
+#h:: Run C:\Users\Production\Desktop\Jesse\AHK\ReadMe.txt ; Win+H

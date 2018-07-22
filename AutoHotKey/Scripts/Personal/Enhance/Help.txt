@@ -1,0 +1,27 @@
+Context Sensitive Help: Ctrl+2
+
+- Usage: Shows the help file page for the selected AutoHotkey command or keyword. If nothing is selected, the command name will be extracted from the beginning of the current line.
+
+------------------------------------------------------------
+
+AutoHotKey Documentation: Win+Z
+Current Script Directory: Win+E
+Google Drive - Video Creation: Win+V
+Google: Win+A
+Help File: Win+H
+SciTE Text Editor: Win+X
+WindowSpy: Ctrl+Alt+S
+
+------------------------------------------------------------
+
+Ctrl+Alt+S: WindowSpy
+
+Win+A: Google
+Win+E: Current Script Directory
+Win+H: Help File
+Win+X: SciTE Text Editor
+Win+V Google Drive - Video Creation
+Win+Z: AutoHotKey Documentation
+
+
+
